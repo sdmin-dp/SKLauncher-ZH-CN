@@ -1,7 +1,0 @@
-# 不上传二进制到仓库，安装包请放到 GitHub Releases
-*.exe
-*.asar
-*.zip
-*.7z
-release/
-dist/
