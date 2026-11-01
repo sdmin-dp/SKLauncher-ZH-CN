@@ -92,3 +92,6 @@ SKlauncher 自动更新会覆盖 `app.asar`，需要重新运行一次补丁。�
 - 本补丁只修改本地安装文件，不上传账号、不收集数据。
 - 因自动更新、重装或其他修改导致的失效或损坏，请使用备份恢复。
 - 如果你要重新分发，请自行确认是否符合 SKlauncher 的许可条款。
+
+## 注
+- PCL和HMCL最近因为中国法律原因用不了了，SKLauncher可能需要代理，如果无法使用，推荐使用[BHL](https://github.com/zqq-699/BlockHelm-Launcher)
