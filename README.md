@@ -2,6 +2,10 @@
 
 非官方中文语言包。适用于 **SKlauncher 4.0.55 Windows x64 安装版**。
 
+![更新](https://cdn.luogu.com.cn/upload/image_hosting/hltsbnxg.webp?x-oss-process=image/resize,m_lfit,h_170,w_225,limit_0)
+![主页](https://cdn.luogu.com.cn/upload/image_hosting/e2fqptc1.webp?x-oss-process=image/resize,m_lfit,h_170,w_225,limit_0)
+
+![]
 > **普通用户请到本仓库的 Releases 下载：**
 > - `SKlauncher-zh-CN-patch-4.0.55.zip`（中文补丁）
 > - `SKlauncher-4.0.55-setup.exe`（原版安装包镜像）
