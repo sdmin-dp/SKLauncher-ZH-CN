@@ -27,7 +27,7 @@
 
 ## 使用前提
 
-1. 先安装 **SKlauncher 4.0.55 原版**（本仓库 Release 中附有原版安装包镜像）。
+1. 先安装 **SKlauncher原版**（本仓库 Release 中附有原版安装包镜像）。
 2. 不需要开启代理。
 3. 关闭正在运行的 SKlauncher。
 
@@ -53,7 +53,7 @@
 
 ### 提示 app.asar 大小不对
 
-说明安装的不是 4.0.55，或者已经被其他补丁改过。请先安装本仓库提供的 4.0.55 原版。
+说明安装的不是对应版本，或者已经被其他补丁改过。请先安装本仓库提供的配套原版。
 
 ### 提示找不到 SKlauncher
 
@@ -97,4 +97,4 @@ SKlauncher 自动更新会覆盖 `app.asar`，需要重新运行一次补丁。�
 - 如果你要重新分发，请自行确认是否符合 SKlauncher 的许可条款。
 
 ## 注
-- PCL和HMCL最近因为中国法律原因用不了了，SKLauncher可能需要代理，如果无法使用，推荐使用[BHL](https://github.com/zqq-699/BlockHelm-Launcher)
+- SKLauncher可能需要代理，如果无法使用，推荐使用[BHL](https://github.com/zqq-699/BlockHelm-Launcher)
